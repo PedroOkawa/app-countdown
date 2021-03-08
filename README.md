@@ -6,7 +6,8 @@
 
 
 ## :scroll: Description
-A countdown application using Canvas and paths with Jetpack Compose (:tada:) to draw an hourglass
+A countdown application using Canvas and paths with Jetpack Compose (:tada:) to draw an hourglass.
+**Note: The dark version is way more beautiful**
 
 
 ## :bulb: Motivation and Context
